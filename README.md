@@ -1,50 +1,43 @@
-# Welcome to your Expo app 👋
+# 📱 Projeto - Calculadora em React Native
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# ✅ To-do
 
-## Get started
+- [x] Definir Requisitos  
+- [ ] Criar Protótipos  
+- [ ] Elaborar Documentação de Negócio  
+  - [ ] Print do app rodando no celular  
+  - [ ] Descrição dos requisitos  
+  - [ ] Inserir documentação no `README.md`  
+- [ ] Implementar Código  
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+# 📋 Requisitos
 
-2. Start the app
+## 🎯 Requisitos Funcionais
 
-   ```bash
-   npx expo start
-   ```
+- O aplicativo deve permitir ao usuário digitar números de **0 a 9**.
+- O sistema deve disponibilizar as operações básicas:
+  - ➕ Soma  
+  - ➖ Subtração  
+  - ✖️ Multiplicação  
+  - ➗ Divisão  
+- O aplicativo deve calcular o resultado ao clicar no botão **igual (=)**.
+- O visor deve ser atualizado a cada interação do usuário com os botões.
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## ⚙️ Requisitos Não Funcionais
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- O aplicativo deve ser desenvolvido utilizando **React Native**.
+- Deve funcionar em dispositivos **Android e iOS**.
+- A interface deve ser **simples, intuitiva e responsiva**.
+- O tempo de resposta ao interagir com os botões deve ser **imediato**.
 
-## Get a fresh project
+---
 
-When you're ready, run:
+# 🎨 Protótipo
 
-```bash
-npm run reset-project
-```
+> Criando...
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+# 📋 Documentação de Negócio
