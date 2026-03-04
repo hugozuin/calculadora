@@ -4,7 +4,7 @@
 
 - [x] Definir Requisitos  
 - [x] Criar Protótipo  
-- [ ] Elaborar Documentação de Negócio  
+- [x] Elaborar Documentação de Negócio  
   - [ ] Print do app rodando no celular
   - [x] Inserir documentação no `README.md`  
 - [ ] Implementar Código  
