@@ -10,10 +10,46 @@
 - [ ] Implementar Código  
 
 ---
+# 📋 Documentação de Negócio
+### 📌 Visão Geral do Projeto
+
+O projeto consiste no desenvolvimento de um aplicativo de **calculadora mobile** utilizando **React Native**, com o objetivo de oferecer ao usuário uma ferramenta prática, intuitiva e visualmente organizada para realizar cálculos matemáticos básicos no celular.
+
+A proposta do aplicativo é reproduzir a experiência de uso de uma calculadora moderna, com interface limpa, operações essenciais e resposta rápida às interações do usuário.
+
+## ❗ Problema de Negócio
+
+No dia a dia, usuários frequentemente precisam realizar cálculos rápidos em dispositivos móveis, seja para tarefas pessoais, acadêmicas ou profissionais. Embora existam calculadoras nativas em diversos aparelhos, o desenvolvimento deste projeto busca criar uma solução própria com foco em:
+
+- aprendizado prático de desenvolvimento mobile;
+- construção de uma interface personalizada;
+- aplicação de conceitos de usabilidade;
+- organização de requisitos e prototipação de software.
+
+Dessa forma, o projeto não apenas entrega uma funcionalidade útil, mas também serve como aplicação prática de conceitos de engenharia de software e desenvolvimento de interfaces.
+
+---
+
+## 🎯 Objetivo Geral
+
+Desenvolver um aplicativo de calculadora em React Native que permita ao usuário realizar operações matemáticas básicas de forma rápida, simples e intuitiva.
+
+
+## 💡 Solução Proposta
+
+A solução proposta é um aplicativo mobile de calculadora com interface inspirada em calculadoras modernas, contendo:
+
+- visor para exibição da expressão e do resultado;
+- teclado numérico organizado em grade;
+- operadores matemáticos básicos;
+- funções adicionais como porcentagem, alteração de sinal, limpeza total e remoção do último caractere.
+
+O aplicativo foi pensado para ser simples, funcional e visualmente claro, priorizando a experiência do usuário.
+
 
 # 📋 Requisitos
 
-## 🎯 Requisitos Funcionais
+### 🎯 Requisitos Funcionais
 
 - O aplicativo deve permitir ao usuário inserir números de **0 a 9**.
 - O aplicativo deve permitir inserir números decimais utilizando **vírgula (,)**.
@@ -32,7 +68,7 @@
 
 ---
 
-## ⚙️ Requisitos Não Funcionais
+### ⚙️ Requisitos Não Funcionais
 
 - O aplicativo deve ser desenvolvido utilizando **React Native**.
 - Deve funcionar em dispositivos **Android e iOS**.
@@ -43,8 +79,7 @@
 ---
 
 # 🎨 Protótipo
-
-## 📌 Descrição do Protótipo
+### 📌 Descrição do Protótipo
 
 O protótipo foi desenvolvido no **Figma**, utilizando um layout mobile-first, com foco em:
 
@@ -65,56 +100,14 @@ A parte inferior foi estruturada em formato de **grid**, simulando uma calculado
 
 O design prioriza contraste, legibilidade e usabilidade.
 
----
 
-# 📋 Documentação de Negócio
-
-## 📌 Visão Geral do Projeto
-
-O projeto consiste no desenvolvimento de um aplicativo de **calculadora mobile** utilizando **React Native**, com o objetivo de oferecer ao usuário uma ferramenta prática, intuitiva e visualmente organizada para realizar cálculos matemáticos básicos no celular.
-
-A proposta do aplicativo é reproduzir a experiência de uso de uma calculadora moderna, com interface limpa, operações essenciais e resposta rápida às interações do usuário.
-
----
-
-## ❗ Problema de Negócio
-
-No dia a dia, usuários frequentemente precisam realizar cálculos rápidos em dispositivos móveis, seja para tarefas pessoais, acadêmicas ou profissionais. Embora existam calculadoras nativas em diversos aparelhos, o desenvolvimento deste projeto busca criar uma solução própria com foco em:
-
-- aprendizado prático de desenvolvimento mobile;
-- construção de uma interface personalizada;
-- aplicação de conceitos de usabilidade;
-- organização de requisitos e prototipação de software.
-
-Dessa forma, o projeto não apenas entrega uma funcionalidade útil, mas também serve como aplicação prática de conceitos de engenharia de software e desenvolvimento de interfaces.
-
----
-
-## 🎯 Objetivo Geral
-
-Desenvolver um aplicativo de calculadora em React Native que permita ao usuário realizar operações matemáticas básicas de forma rápida, simples e intuitiva.
-
----
-
-## 💡 Solução Proposta
-
-A solução proposta é um aplicativo mobile de calculadora com interface inspirada em calculadoras modernas, contendo:
-
-- visor para exibição da expressão e do resultado;
-- teclado numérico organizado em grade;
-- operadores matemáticos básicos;
-- funções adicionais como porcentagem, alteração de sinal, limpeza total e remoção do último caractere.
-
-O aplicativo foi pensado para ser simples, funcional e visualmente claro, priorizando a experiência do usuário.
-
----
 
 ## 🖼️ Imagem do Protótipo
 
 ![Protótipo da Calculadora](./assets/images/prototipo.png)
 
 
-## 🔗 Link do Protótipo no Figma
+### 🔗 Link do Protótipo no Figma
 
 
 O protótipo completo pode ser acessado diretamente pelo Figma clicando no link abaixo:
