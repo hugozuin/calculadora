@@ -1,4 +1,4 @@
-import { TouchableOpacity } from "react-native";
+import { TouchableOpacity, ViewStyle } from "react-native";
 import { styles } from "./styles";
 import { ReactNode } from "react";
 
@@ -8,7 +8,7 @@ interface NumberProps {
   style?: ViewStyle;
 }
 
-export function Number({ children, onPress, style }: NumberProps) {
+export function Button({ children, onPress, style }: NumberProps) {
   return (
     <TouchableOpacity style={[styles.container, style]} onPress={onPress}>
       {children}
