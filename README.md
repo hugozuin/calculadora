@@ -7,7 +7,7 @@
 - [x] Elaborar Documentação de Negócio  
   - [ ] Print do app rodando no celular
   - [x] Inserir documentação no `README.md`  
-- [ ] Implementar Código  
+- [x] Implementar Código  
 
 ---
 # 📋 Documentação de Negócio
